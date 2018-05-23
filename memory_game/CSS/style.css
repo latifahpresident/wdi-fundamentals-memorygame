@@ -75,6 +75,14 @@ footer {
 	font-weight: 500px;
 }
 
+button {
+	background: #44d9dd;
+	margin-top: 20px;
+	border-radius: 15px;
+	height: 25px;
+	width: 75px;
+}
+
 .copyright {
 	font: "raleway";
 	float: left;
